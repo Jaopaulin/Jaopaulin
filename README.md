@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Meu nome e raissa te amo
+Meu nome e joao paulo
 
 - Estou estudando [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo em Java Script
